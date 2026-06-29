@@ -45,7 +45,7 @@ number-guessing-game/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/SAKET098/number-guessing-game.git
 ```
 
 2. Navigate to the project folder
