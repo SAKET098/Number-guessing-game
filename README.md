@@ -33,8 +33,9 @@ The computer randomly generates a number between **1 and 100**, and the player h
 
 ```text
 number-guessing-game/
-│── main.py
+
 │── README.md
+│── main.py
 ```
 
 ---
