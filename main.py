@@ -1,4 +1,3 @@
-import math as m
 import random as r
 attempt=8
 game_stopped=False
@@ -18,7 +17,7 @@ else:
 
     print("you have to guess the no between 1 to 100 both included")
     random_number=r.randint(1,100)
-    while(game_stopped==False and attempt>0):
+    while(not game_stopped and attempt>0):
         guessed_number=int(input("Enter the number : "))
 
         if(guessed_number>random_number):
